@@ -1,0 +1,20 @@
+# ninja log v5
+5	756	7340119052889786	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+757	909	7340119054385796	saper.exe	b7bc8fe4484b2c4b
+7	596	7340132914328161	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+13	674	7340132915106072	CMakeFiles/saper.dir/CinErrorHandler.cpp.obj	110e370017630cce
+674	774	7340132916046851	saper.exe	add7e88dfbeefde6
+4	682	7340134217314447	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+683	802	7340134218469454	saper.exe	add7e88dfbeefde6
+9	1109	7340145182559432	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+1110	1326	7340145184657694	saper.exe	add7e88dfbeefde6
+11	1294	7340147850498831	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+1298	1493	7340147852426108	saper.exe	add7e88dfbeefde6
+12	1279	7340148234047028	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+1280	1579	7340148236928028	saper.exe	add7e88dfbeefde6
+10	1264	7340148729584454	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+1265	1470	7340148731585303	saper.exe	add7e88dfbeefde6
+7	1155	7340149148232463	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+1156	1368	7340149150290617	saper.exe	add7e88dfbeefde6
+8	1179	7340150379968012	CMakeFiles/saper.dir/main.cpp.obj	b6e4813a7b47c013
+1180	1408	7340150382214096	saper.exe	add7e88dfbeefde6
